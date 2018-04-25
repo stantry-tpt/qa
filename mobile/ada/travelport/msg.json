@@ -1,0 +1,308 @@
+{
+  "translations":[
+    {
+      "key":"ada.account.settingsItem.feedback.title",
+      "value":"Feedback_test1"
+    },
+    {
+      "key":"ada.account.settingsItem.privacyPolicy.title",
+      "value":"Privacy Policy"
+    },
+    {
+      "key":"ada.account.settingsItem.support.title",
+      "value":"FAQs."
+    },
+    {
+      "key":"ada.account.settingsItem.termsAndConditions.title",
+      "value":"Terms of Use"
+    },
+    {
+      "key":"ada.booking.exitDialog.confirmAction",
+      "value":"Exit"
+    },
+    {
+      "key":"ada.booking.exitDialog.message",
+      "value":"Exit this booking?"
+    },
+    {
+      "key":"ada.booking.externalWebFlow.disclaimerMessage",
+      "value":"This external content might not be optimised for mobile"
+    },
+    {
+      "key":"ada.booking.externalWebFlow.processing",
+      "value":"Your trip will appear here when it has been ticketed."
+    },
+    {
+      "key":"ada.booking.title",
+      "value":"Book a New Trip."
+    },
+    {
+      "key":"ada.common.cancel",
+      "value":"Cancel"
+    },
+    {
+      "key":"ada.common.error.booking",
+      "value":"Sorry, booking not found."
+    },
+    {
+      "key":"ada.common.error.server",
+      "value":"Sorry, it looks like we have a problem with our servers, please try again later."
+    },
+    {
+      "key":"ada.common.error.unexpected",
+      "value":"Sorry, it looks like we have a problem, please try again later."
+    },
+    {
+      "key":"ada.common.ok",
+      "value":"OK"
+    },
+    {
+      "key":"ada.forceUpgrade.recommended.cancelAction",
+      "value":"Later"
+    },
+    {
+      "key":"ada.forceUpgrade.recommended.confirmAction",
+      "value":"Update now"
+    },
+    {
+      "key":"ada.forceUpgrade.recommended.message",
+      "value":"This version of the app will be unsupported soon. Please update to the latest version."
+    },
+    {
+      "key":"ada.forceUpgrade.recommended.title",
+      "value":"There is a new version of the app available"
+    },
+    {
+      "key":"ada.forceUpgrade.required.cancelAction",
+      "value":"Later"
+    },
+    {
+      "key":"ada.forceUpgrade.required.confirmAction",
+      "value":"Update now"
+    },
+    {
+      "key":"ada.forceUpgrade.required.message",
+      "value":"This version of the app is no longer supported. Please update to the latest version."
+    },
+    {
+      "key":"ada.forceUpgrade.required.title",
+      "value":"Application Update Required"
+    },
+    {
+      "key":"ada.language",
+      "value":"en"
+    },
+    {
+      "key":"idn.alreadyMember.registerButton.titleFormat",
+      "value":"REGISTER WITH ANOTHER EMAIL"
+    },
+    {
+      "key":"idn.booking.confirmation.cancel",
+      "value":"Cancel"
+    },
+    {
+      "key":"idn.booking.confirmation.exit",
+      "value":"Exit"
+    },
+    {
+      "key":"idn.booking.confirmation.message",
+      "value":"Exit this booking?"
+    },
+    {
+      "key":"idn.booking.title",
+      "value":"Book a New Trip"
+    },
+    {
+      "key":"idn.configure.touchID.error.title",
+      "value":"Oops. There is a problem."
+    },
+    {
+      "key":"idn.configureTouchID.error.authentication.invalid.credentials",
+      "value":"Looks like your email or password are wrong."
+    },
+    {
+      "key":"idn.configureTouchID.error.generic",
+      "value":"Something went wrong."
+    },
+    {
+      "key":"idn.configureTouchID.error.title",
+      "value":"Oops. There is a problem."
+    },
+    {
+      "key":"idn.configureTouchID.error.touchID.credentials",
+      "value":"Sorry, the provided credentials are invalid for Touch ID. Please try set up Touch ID from the Settings."
+    },
+    {
+      "key":"idn.configureTouchID.error.touchID.generic",
+      "value":"Sorry, looks like Touch ID can't be used now. Please try set up Touch ID from the Settings."
+    },
+    {
+      "key":"idn.configureTouchID.error.touchID.not.supported",
+      "value":"Sorry, login with Touch ID is not supported in your device."
+    },
+    {
+      "key":"idn.configureTouchID.error.touchID.unlock",
+      "value":"Sorry, the credentials provided cannot be unlocked by Touch ID. Please try set up Touch ID from the Settings."
+    },
+    {
+      "key":"idn.enable.touchID.error.title",
+      "value":"Oops. There is a problem."
+    },
+    {
+      "key":"idn.enableTouchID.enableTouchIDButton",
+      "value":"ENABLE TOUCH ID"
+    },
+    {
+      "key":"idn.enableTouchID.enableTouchIDMessage",
+      "value":"Enable Touch ID to log in to %@ with a single touch"
+    },
+    {
+      "key":"idn.enableTouchID.error.title",
+      "value":"Oops. There is a problem."
+    },
+    {
+      "key":"idn.enableTouchID.error.touchID.credentials",
+      "value":"Sorry, the provided credentials are invalid for Touch ID. Please try set up Touch ID from the Settings."
+    },
+    {
+      "key":"idn.enableTouchID.error.touchID.generic",
+      "value":"Sorry, looks like Touch ID can't be used now. Please try set up Touch ID from the Settings."
+    },
+    {
+      "key":"idn.enableTouchID.error.touchID.not.supported",
+      "value":"Sorry, login with Touch ID is not supported in your device."
+    },
+    {
+      "key":"idn.enableTouchID.error.touchID.unlock",
+      "value":"Sorry, the credentials provided cannot be unlocked by Touch ID. Please try set up Touch ID from the Settings."
+    },
+    {
+      "key":"idn.enableTouchID.skipTouchIDButton",
+      "value":"NO THANKS"
+    },
+    {
+      "key":"idn.enableTouchID.touchIDEnabledMessage",
+      "value":"Touch ID enabled"
+    },
+    {
+      "key":"idn.forgotPassword.validation.error.email.notValid",
+      "value":"Invalid email address. Please try again."
+    },
+    {
+      "key":"idn.forgotPassword.validation.error.username.notValid",
+      "value":"Your username should contain at least 6 characters with a mixture of letters and numbers."
+    },
+    {
+      "key":"idn.forgotPasswordWebWrapper.title",
+      "value":"Forgot Password"
+    },
+    {
+      "key":"idn.landingPage.loginButton.title",
+      "value":"Log In"
+    },
+    {
+      "key":"idn.landingPage.registerButton.title",
+      "value":"Register"
+    },
+    {
+      "key":"idn.login.error.authentication.validation.error",
+      "value":"Email and password are mandatory for login."
+    },
+    {
+      "key":"idn.login.error.touchID.credentials",
+      "value":"Sorry, the provided credentials are invalid for Touch ID. Please try set up Touch ID from the Settings."
+    },
+    {
+      "key":"idn.login.error.touchID.generic",
+      "value":"Sorry, looks like Touch ID can't be used now. Please try set up Touch ID from the Settings."
+    },
+    {
+      "key":"idn.login.error.touchID.not.supported",
+      "value":"Sorry, login with Touch ID is not supported in your device."
+    },
+    {
+      "key":"idn.login.error.touchID.unlock",
+      "value":"Sorry, the credentials provided cannot be unlocked by Touch ID. Please try set up Touch ID from the Settings."
+    },
+    {
+      "key":"idn.login.forgotPassword.title",
+      "value":"Forgot Password?"
+    },
+    {
+      "key":"idn.login.supportLink.privacyPolicy",
+      "value":"Privacy Policy"
+    },
+    {
+      "key":"idn.login.supportLink.support",
+      "value":"Support Enquiries"
+    },
+    {
+      "key":"idn.login.supportLink.termsAndConditions",
+      "value":"Terms of Use"
+    },
+    {
+      "key":"idn.login.touchID.title",
+      "value":"Tap to launch Touch ID"
+    },
+    {
+      "key":"idn.loginLeaseExpired.message",
+      "value":"Please login again to use the app"
+    },
+    {
+      "key":"idn.loginLeaseExpired.title",
+      "value":"Login lease expired"
+    },
+    {
+      "key":"idn.registrationWebWrapper.title",
+      "value":"Registration"
+    },
+    {
+      "key":"idn.signUp.password.hide",
+      "value":"HIDE"
+    },
+    {
+      "key":"idn.signUp.password.show",
+      "value":"SHOW"
+    },
+    {
+      "key":"idn.signUp.termsAndCondition.highlight",
+      "value":"terms and conditions"
+    },
+    {
+      "key":"idn.signUp.termsAndCondition.link",
+      "value":"Terms and conditions"
+    },
+    {
+      "key":"idn.signUp.validation.passwordRule.rule1",
+      "value":"Password must contain a digit"
+    },
+    {
+      "key":"idn.signUp.validation.passwordRule.rule2",
+      "value":"Password must contain a letter"
+    },
+    {
+      "key":"idn.signUp.validation.passwordRule.rule3",
+      "value":"Password must contain at least 6 characters"
+    },
+    {
+      "key":"idn.touchID.enable.reason",
+      "value":"Use your fingerprint to setup Touch ID for your account."
+    },
+    {
+      "key":"idn.touchID.unlock.reason",
+      "value":"Login as %@"
+    },
+    {
+      "key":"idn.validation.email.explanationLabel",
+      "value":"Please enter the email used for your booking"
+    },
+    {
+      "key":"legInfo.flight.minicard.titleFormat",
+      "value":"%@  \u2192  %@"
+    },
+    {
+      "key":"legInfo.flight.passengerSeat",
+      "value":"Seat"
+    }
+  ]
+}
